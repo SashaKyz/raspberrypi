@@ -43,14 +43,14 @@ If it finds that line, insert a # symbol to comment out that line, and Ctrl X, Y
 
 Type `"sudo reboot"` to reboot the computer.
 
-#####TRY IT OUT
+##### TRY IT OUT
 To try out if the installation worked, type
 
 `sudo cat /dev/ttyAMA0`
 
 You should be seeing a lot of text pass by. That means it works. Type Ctrl + c to return.
 
-#####INSTALLING SOFTWARE
+##### INSTALLING SOFTWARE
 
 We will be minicom to connect to the GPS module and make sense of the data. It is also one of the tools that we will use to test is our GPS module is working fine. An alternative to minicom is the daemon software GPSD.
 
@@ -66,7 +66,7 @@ Now run the gps client
 
 Please note that it can take up to 30 minutes to get a GPS signal on the first run. The LED will be blink red when it has a connection.
 
-#####INSTALLING LIBRARY
+##### INSTALLING LIBRARY
 
 To easily parse the received data, we will make use of the pynmea2 library. It can be installed using;
 
