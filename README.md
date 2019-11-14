@@ -94,7 +94,7 @@ At this stage, I will suggest another reboot so we are ready to go on to connect
 
 
 #### Connections for Raspberry Pi GPS module Interfacing:
-[Wiring diagram](img/interfacing-GPS-module-with-Raspberry-pi-circuit-diagram.png)
+[Wiring diagram](./img/interfacing-GPS-module-with-Raspberry-pi-circuit-diagram.png)
 
 ##Sources:
 1. https://pisavvy.com/neo-6m
