@@ -6,7 +6,7 @@ The Raspberry Pi has two built-in UARTs, a PL011 and a mini UART. They are imple
 
 Now you have two option to keep UART port for GPS - use bluetooth port or use console port. 
 
-#####TURN OFF THE BLUETOOTH
+##### TURN OFF THE BLUETOOTH
  
 The first thing we will do under this is to edit the `/boot/config.txt` file. To do this, run the commands below:
 
